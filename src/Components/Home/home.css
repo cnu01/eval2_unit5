@@ -1,0 +1,11 @@
+.search-box{
+  width: 40%;
+  height: 30px;  
+  border-radius: 3px; 
+  border: 1px solid black;
+}
+
+.home_div{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
